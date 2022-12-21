@@ -1,0 +1,3 @@
+const shared = "cher"
+
+export {};
